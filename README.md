@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Mahajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.michalsons.com/wp-content/uploads/2023/07/Source-code-versus-object-code-key-differences-e1690743579524.jpg">
+<img align="right" alt="coding" width="500" src="https://www.michalsons.com/wp-content/uploads/2023/07/Source-code-versus-object-code-key-differences-e1690743579524.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahajna022&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahajna022" /> </p>
 
