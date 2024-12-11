@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Mahajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=3c1a55819b6b7e41&sxsrf=ADLYWIKew72LjtGFbJ649YkoclsdMuCVOA:1733894508721&q=code&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39Jw_Y7pXPv6W9UjIXzt09-YaAdYqbW8TLYaVEFL3WpJtYsK8RZ6UcxDGTIyBJL_rYqWgFie81P9JJXrCfJMQDx9wsJTMZireVYEUHeQGWzlhogrlo85_6F_ZB1I1KLA-KKdPvxLm3c6hlJIj-R_SuvAEWtRRg&sa=X&ved=2ahUKEwiAt5Sy_J6KAxVck1YBHZH2OeYQtKgLegQIGxAB&biw=1536&bih=695&dpr=1.25#vhid=k1Q8NJmzLbIaYM&vssid=mosaic">
+<img align="right" alt="coding" width="400" src="https://www.michalsons.com/wp-content/uploads/2023/07/Source-code-versus-object-code-key-differences-e1690743579524.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahajna022&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahajna022" /> </p>
 
