@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Mahajan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="600px" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png">
+<img align="right" alt="coding" width="400px" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahajna022&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahajna022" /> </p>
 
 - 🌱 I’m currently learning **Web Developer**
