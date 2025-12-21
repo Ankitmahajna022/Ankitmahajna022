@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Web Developer**
 - 💬 Ask me about **Sure! What would you like me to ask you about? Your studies, your web development journey, or perhaps your future goals? 😊**
-
 - 📫 How to reach me **ankitmahajan2257@gmail.com**
 
 - ⚡ Fun fact **Here’s a fun one: Bananas are berries, but strawberries aren’t! Botanically speaking, a berry must have seeds and pulp and develop from a single flower with one ovary. Bananas fit the bill, while strawberries develop from a flower with multiple ovaries**
