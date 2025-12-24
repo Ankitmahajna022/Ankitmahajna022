@@ -10,6 +10,7 @@
 - 📫 How to reach me **ankitmahajan2257@gmail.com**
 
 - ⚡ Fun fact **Here’s a fun one: Bananas are berries, but strawberries aren’t! Botanically speaking, a berry must have seeds and pulp and develop from a single flower with one ovary. Bananas fit the bill, while strawberries develop from a flower with multiple ovaries**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
